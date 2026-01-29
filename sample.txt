@@ -3,3 +3,4 @@ This is a sample file for testing GitHub webhooks.
 You can modify this file to trigger PUSH events.
 
 trial event
+another trial event
